@@ -1,0 +1,3 @@
+
+Bugs:
+- Money init after Start button. Fixes Prestige start money

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f61eefa0b93103942a8eecb3962d13be, type: 3}
+  m_Name: SCCryptBuilder_data
+  m_EditorClassIdentifier: 
+  m_Filename: Softcen/Scripts/afxh3lw.cs
+  m_ClassName: afxh3lw
+  m_List:
+  - m_Name: lvl1
+    m_Comment: AdMob GP Banner
+    m_Value: ca-app-pub-7159985667273944/6973783119
+  - m_Name: lvl2
+    m_Comment: AdMob GP Interstitial
+    m_Value: ca-app-pub-7159985667273944/7972838310
+  - m_Name: lvl3
+    m_Comment: Admob iOS Banner
+    m_Value: ca-app-pub-7159985667273944/1926304716
+  - m_Name: lvl4
+    m_Comment: Admob iOS Interstitial
+    m_Value: ca-app-pub-7159985667273944/3403037919
+  - m_Name: lvl5
+    m_Comment: GP key
+    m_Value: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhfFxU+ydEdv8PMpdl4MIdKrJd40UsVqrXXlez2wwGVKdFIxLzCNxHxMBLg9NClDAxonaO/rqJiL+kqqHFjiCRAdZ3nTkd1vKTjCvpSjYkLaJNjl73nv+igQa75e8M5hv8qtOeV2cj6JX+JxOop2ji2Rdu+DbRF+c9XTg4yxvgs4HmVjS8lZ4+FvDIdTrH1cYlsPMt5FX4LllnI6mCRC9WXICAWMo0eBwpfym00g0ZgTvweojGIcEKANSNMp6wB3YBTSWZlVs+7L+0Y5jjUKciF6i5T3t5mNhIyY6PoQTlA/LI+XxeHFgU2dsFgkHgggf5gbgSH3qUrm4WJaIIZDNPQIDAQAB
+  - m_Name: lvl6
+    m_Comment: Admob Android AppId
+    m_Value: ca-app-pub-7159985667273944~5497049911
+  - m_Name: lvl7
+    m_Comment: Admob iOS AppId
+    m_Value: ca-app-pub-7159985667273944~9449571519
+  - m_Name: iski1
+    m_Comment: 'IOS Inn App: INN_APP_AUTO_TAP'
+    m_Value: com.softcen.airfield.tycoon.clicker.auto.tap.ios
+  - m_Name: iski2
+    m_Comment: 'IOS Inn App: INN_APP_BARREL_OF_GEMS '
+    m_Value: com.softcen.airfield.tycoon.clicker.barrel.of.gems.ios
+  - m_Name: iski3
+    m_Comment: 'IOS Inn App: INN_APP_BUCKET_OF_GEMS'
+    m_Value: com.softcen.airfield.tycoon.clicker.bucket.of.gems.ios
+  - m_Name: iski4
+    m_Comment: 'IOS Inn App: INN_APP_FISTFUL_OF_GEMS'
+    m_Value: com.softcen.airfield.tycoon.clicker.fistful.of.gems.ios
+  - m_Name: iski5
+    m_Comment: 'IOS Inn App: INN_APP_POUCH_OF_GEMS'
+    m_Value: com.softcen.airfield.tycoon.clicker.pouch.of.gems.ios
+  - m_Name: iski6
+    m_Comment: 'IOS Inn App: INN_APP_DISABLE_BANNER_ADS'
+    m_Value: com.softcen.airfield.tycoon.clicker.adfree.ios
+  - m_Name: gpki1
+    m_Comment: 'GOOGLE INN APP: INN_APP_AUTO_TAP'
+    m_Value: com.softcen.airfield.tycoon.clicker.auto.tap.gp
+  - m_Name: gpki2
+    m_Comment: 'GOOGLE INN APP: INN_APP_BARREL_OF_GEMS'
+    m_Value: com.softcen.airfield.tycoon.clicker.barrel.of.gems.gp
+  - m_Name: gpki3
+    m_Comment: 'GOOGLE INN APP: INN_APP_BUCKET_OF_GEMS'
+    m_Value: com.softcen.airfield.tycoon.clicker.bucket.of.gems
+  - m_Name: gpki4
+    m_Comment: 'GOOGLE INN APP: INN_APP_FISTFUL_OF_GEMS'
+    m_Value: com.softcen.airfield.tycoon.clicker.fistful.of.gems
+  - m_Name: gpki5
+    m_Comment: 'GOOGLE INN APP: INN_APP_POUCH_OF_GEMS'
+    m_Value: com.softcen.airfield.tycoon.clicker.pouch.of.gems
+  - m_Name: gpki6
+    m_Comment: 'GOOGLE INN APP: INN_APP_DISABLE_BANNER_ADS'
+    m_Value: com.softcen.airfield.tycoon.clicker.adfree.gp
+  - m_Name: ateri
+    m_Comment: AdMob Reward iOS
+    m_Value: ca-app-pub-7159985667273944/7247790087
+  - m_Name: aterg
+    m_Comment: AdMob Reward GP
+    m_Value: ca-app-pub-7159985667273944/2318240497
+  - m_Name: ko
+    m_Comment: Terms of service
+    m_Value: https://www.softcen.com/terms-of-service.html
+  - m_Name: yo
+    m_Comment: Privacy Policy
+    m_Value: https://www.softcen.com/privacy.html
+  - m_Name: level1data
+    m_Comment: Unity ADS Android
+    m_Value: 1074451
+  - m_Name: level2data
+    m_Comment: Unity ADS Unity
+    m_Value: 1074452

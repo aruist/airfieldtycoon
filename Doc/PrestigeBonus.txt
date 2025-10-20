@@ -1,0 +1,27 @@
+
+I started yesterday and I have just unlocked Harbor 6. I was wondering if you could add a prestige bonus system if you haven't already done so and make it so players get a permanent +30% earning bonus after restarting.﻿
+
+Prestige
+
+Resets game progress:
+- Start the game again at level one.
+- Gold
+- Missions
+
+You will keep:
+- Diamonds
+
+You will get prestige bonus up to level X:
+- 30% to all bonuses
+
+No thanks	Prestige!
+
+
+--> Are you sure to Prestige? This action cannot be undone!
+Cancel Prestige
+
+
+Variables:
+
+PrestigeCount
+PrestigeLevel

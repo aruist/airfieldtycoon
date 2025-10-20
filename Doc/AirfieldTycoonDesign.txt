@@ -1,0 +1,67 @@
+-----------------------------------------------
+Adding new airfield:
+Airfields: Assets/Softcen/Resources
+Chapter.cs: add chapter
+Add: Identifications
+Update: Bonusmanager
+Update: Levelresources
+
+MAP:
+Add: airfield
+Update: mapmanager
+-----------------------------------------------
+Achievements:
+-----------------------------------------------
+- Buy helicopter
+- Buy privete jet
+- Buy Fighter Z-3
+- Hire air hostess Ulla
+- Hire air hostess Mary
+- Make full prestige
+- Build three air control towers
+
+
+var constants = constants || {}
+constants.ACH_BUY_HELICOPTER = 'CgkI-6iB1dkDEAIQAg';
+constants.ACH_BUY_PRIVATE_JET = 'CgkI-6iB1dkDEAIQAw';
+constants.ACH_BUY_FIGHTER_Z3 = 'CgkI-6iB1dkDEAIQBA';
+constants.ACH_HIRE_AIR_HOSTESS_ULLA = 'CgkI-6iB1dkDEAIQBQ';
+constants.ACH_HIRE_AIR_HOSTESS_MARY = 'CgkI-6iB1dkDEAIQBg';
+constants.ACH_MAKE_FULL_PRESTIGE = 'CgkI-6iB1dkDEAIQBw';
+constants.ACH_BUILD_THREE_AIR_CONTROL_TOWERS = 'CgkI-6iB1dkDEAIQCA';
+constants.LEAD_SCORES = 'CgkI-6iB1dkDEAIQAQ';
+
+-----------------------------------------------
+USE_UNITYADS;USE_CHARTBOOST;USE_APPLOVING;CROSS_PLATFORM_INPUT;MOBILE_INPUT;RT_DEV;PT_ANDROID;DP_GOOGLE_PLAY;PA_FAT;TC_GENERIC;NOGOOGLEV4;USES_GAME_SERVICES;USES_CLOUD_SERVICES
+
+Characters:
+Bill
+Jack
+Bob
+Cullen
+Kelly
+Hank
+Allan
+Blake
+Eli
+Philip
+Homer
+Erik
+Hillary
+Calden
+James
+John
+Rita
+David
+Mark
+Paul
+Richard
+Joseph
+
+Donald
+Bart
+Ulla
+Robert
+
+Most common male names in US:
+James, John, Robert, Michael, William, David, Richard, Charles

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Softcen/Scenes/FirstInit.unity
+    guid: 5443529b738eb4cd5b42e96ec83c0f58
+  - enabled: 1
+    path: Assets/Softcen/Scenes/Loader.unity
+    guid: a9ce943ecc3afbe478e16f2d960d8bf7
+  - enabled: 1
+    path: Assets/Softcen/Scenes/AirfieldMain.unity
+    guid: b217aa36dc1b19e4d95a7c0f78a6dafd
+  - enabled: 1
+    path: Assets/Softcen/Scenes/Map.unity
+    guid: edf943241903b3741900107cf13531f5
+  m_configObjects: {}

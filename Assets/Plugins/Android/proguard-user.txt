@@ -1,0 +1,116 @@
+#-keep class com.google.android.* { *; }
+#-keep class com.google.android.gms.games.* { *; }
+#-keep class com.google.games.bridge.* { *; }
+#-keep class com.google.android.gms.common.api.* { *; }
+#-keepnames class com.google.android.gms.** {*;}
+-keepnames class com.google.** {*;}
+#GameService Rules
+-keep class com.google.android.gms.games.leaderboard.** { *; }
+-keep class com.google.android.gms.games.snapshot.** { *; }
+-keep class com.google.android.gms.games.achievement.** { *; }
+-keep class com.google.android.gms.games.event.** { *; }
+-keep class com.google.android.gms.games.stats.** { *; }
+-keep class com.google.android.gms.games.video.** { *; }
+-keep class com.google.android.gms.games.* { *; }
+-keep class com.google.android.gms.common.api.ResultCallback { *; }
+-keep class com.google.android.gms.signin.** { *; }
+-keep class com.google.android.gms.dynamic.** { *; }
+-keep class com.google.android.gms.dynamite.** { *; }
+-keep class com.google.android.gms.tasks.** { *; }
+-keep class com.google.android.gms.security.** { *; }
+-keep class com.google.android.gms.base.** { *; }
+-keep class com.google.android.gms.actions.** { *; }
+-keep class com.google.games.bridge.** { *; }
+-keep class com.google.android.gms.common.ConnectionResult { *; }
+-keep class com.google.android.gms.common.GooglePlayServicesUtil { *; }
+-keep class com.google.android.gms.common.api.** { *; }
+-keep class com.google.android.gms.common.data.DataBufferUtils { *; }
+-keep class com.google.android.gms.games.quest.** { *; }
+-keep class com.google.android.gms.nearby.** { *; }
+
+-keep class com.google.ads.**
+-keep class com.voxelbusters.android.essentialkitplugin.** { *; }
+-keep class com.voxelbusters.android.** { *; }
+
+# For Google Play Services
+-keep public class com.google.android.gms.ads.**{
+   public *;
+}
+# For old ads classes
+-keep public class com.google.ads.**{
+   public *;
+}
+# For mediation
+-keepattributes *Annotation*
+# Other required classes for Google Play Services
+# Read more at http://developer.android.com/google/play-services/setup.html
+-keep class * extends java.util.ListResourceBundle {
+   protected Object[][] getContents();
+}
+-keep public class com.google.android.gms.common.internal.safeparcel.SafeParcelable {
+   public static final *** NULL;
+}
+
+-keepnames @com.google.android.gms.common.annotation.KeepName class *
+-keepclassmembernames class * {
+   @com.google.android.gms.common.annotation.KeepName *;
+}
+
+-keepnames class * implements android.os.Parcelable {
+   public static final ** CREATOR;
+}
+# Keep Google Mobile Ads Unity plugin classes.
+-keep class com.google.unity.ads.** {
+   *;
+}
+
+# Keep User Messaging Platform Unity plugin classes.
+-keep class com.google.unity.ump.** {
+   *;
+}
+-keep class com.google.android.ump.** {
+   *;
+}
+
+# Keep Google Mobile Ads Native Ad Unity plugin classes.
+-keep class com.google.unity.ads.nativead.** {
+   *;
+}
+-keep class com.google.android.gms.ads.** {
+   *;
+}
+# Google IAP
+-keep class com.android.billingclient.** {
+   *;
+}
+
+-keepnames class com.google.unity.**  {*;}
+-keep class bitter.jnibridge.* { *; }
+-keep class com.unity3d.player.* { *; }
+-keep interface com.unity3d.player.IUnityPlayerLifecycleEvents { *; }
+-keep class org.fmod.* { *; }
+-keep class androidx.core.graphics.Insets** { *; }
+-keep class androidx.core.view.WindowInsetsCompat** { *; }
+-keep class com.google.android.games.paddleboat.** { *; }
+-keep class com.google.androidgamesdk.gametextinput.** { *; }
+-keepclassmembers class com.google.androidgamesdk.GameActivity {
+  void setWindowFlags(int, int);
+  public androidx.core.graphics.Insets getWindowInsets(int);
+  public androidx.core.graphics.Insets getWaterfallInsets();
+  public void setImeEditorInfo(android.view.inputmethod.EditorInfo);
+  public void setImeEditorInfoFields(int, int, int);
+}
+-ignorewarnings
+
+# don't warn if playcore plugin wasn't added to project
+-dontwarn com.google.android.play.core.assetpacks.AssetPackLocation
+-dontwarn com.google.android.play.core.assetpacks.AssetPackManager
+-dontwarn com.google.android.play.core.assetpacks.AssetPackManagerFactory
+-dontwarn com.google.android.play.core.assetpacks.AssetPackState
+-dontwarn com.google.android.play.core.assetpacks.AssetPackStateUpdateListener
+-dontwarn com.google.android.play.core.assetpacks.AssetPackStates
+-dontwarn com.google.android.play.core.assetpacks.AssetPackException
+-dontwarn com.google.android.gms.tasks.OnCompleteListener
+-dontwarn com.google.android.gms.tasks.OnSuccessListener
+-dontwarn com.google.android.gms.tasks.RuntimeExecutionException
+-dontwarn com.google.android.gms.tasks.Task

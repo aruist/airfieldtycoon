@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: d16adfa51baaa3144a7894961caf6405
+timeCreated: 1452889607
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\r\n<!--
+    Created with Inkscape (http://www.inkscape.org/) -->\r\n<svg xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"
+    xmlns=\"http://www.w3.org/2000/svg\" height=\"297mm\" width=\"210mm\" version=\"1.1\"
+    xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    viewBox=\"0 0 744.09448819 1052.3622047\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\r\n
+    <defs>\r\n  <linearGradient id=\"linearGradient4779\" y2=\"584.75\" gradientUnits=\"userSpaceOnUse\"
+    x2=\"-104.61\" gradientTransform=\"translate(422.86 -2.8571)\" y1=\"294.03\" x1=\"-104.61\">\r\n
+    \  <stop stop-color=\"#fff\" offset=\"0\"/>\r\n   <stop stop-color=\"#fff\" stop-opacity=\".542\"
+    offset=\".50493\"/>\r\n   <stop stop-color=\"#fff\" offset=\"1\"/>\r\n  </linearGradient>\r\n
+    \ <linearGradient id=\"linearGradient4795\" y2=\"294.75\" gradientUnits=\"userSpaceOnUse\"
+    x2=\"-102.65\" y1=\"589.75\" x1=\"-102.65\">\r\n   <stop stop-color=\"#c4b2aa\"
+    offset=\"0\"/>\r\n   <stop stop-color=\"#647993\" offset=\".41245\"/>\r\n   <stop
+    stop-color=\"#41546a\" offset=\"1\"/>\r\n  </linearGradient>\r\n </defs>\r\n <metadata>\r\n
+    \ <rdf:RDF>\r\n   <cc:Work rdf:about=\"\">\r\n    <dc:format>image/svg+xml</dc:format>\r\n
+    \   <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\r\n    <dc:title/>\r\n
+    \  </cc:Work>\r\n  </rdf:RDF>\r\n </metadata>\r\n <g>\r\n  <rect rx=\"24\" ry=\"24\"
+    height=\"313.65\" width=\"253.04\" y=\"280.78\" x=\"186.99\"/>\r\n  <path d=\"m-211.87
+    293.46c-8.0248 0-14.178 6.1529-14.178 14.178v265.65c0 8.0248 6.1529 14.178 14.178
+    14.178h205.04c8.0248 0 14.178-6.1529 14.178-14.178v-265.65c0-8.0248-6.1529-14.178-14.178-14.178h-205.04z\"
+    transform=\"translate(422.86 -2.8571)\" fill=\"url(#linearGradient4795)\"/>\r\n
+    \ <path opacity=\"0.512\" d=\"m210.99 290.42c-8.1206 0-14.357 6.2368-14.357 14.357v265.65c0
+    8.1206 6.2368 14.357 14.357 14.357h205.04c8.1206 0 14.357-6.2368 14.357-14.357v-265.65c0-8.1206-6.2368-14.357-14.357-14.357h-205.04zm7.5781
+    8.8379h190.64c7.5504 0 13.35 5.8212 13.35 13.398v247.88c0 7.5772-5.7992 13.396-13.35
+    13.396h-190.64c-7.5504 0-13.35-5.8192-13.35-13.396v-247.88c0-7.5772 5.7992-13.398
+    13.35-13.398z\" fill=\"url(#linearGradient4779)\"/>\r\n </g>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 

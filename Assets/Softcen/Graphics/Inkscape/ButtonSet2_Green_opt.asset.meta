@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 5a7a1ee84158a874189557b9bcaeb33e
+timeCreated: 1452781906
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\r\n<!--
+    Created with Inkscape (http://www.inkscape.org/) -->\r\n<svg xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"
+    xmlns=\"http://www.w3.org/2000/svg\" height=\"297mm\" width=\"210mm\" version=\"1.1\"
+    xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    viewBox=\"0 0 744.09448819 1052.3622047\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\r\n
+    <defs>\r\n  <linearGradient id=\"linearGradient4285\" y2=\"108.58\" gradientUnits=\"userSpaceOnUse\"
+    x2=\"443.08\" y1=\"258.9\" x1=\"444.35\">\r\n   <stop stop-opacity=\".45509\"
+    offset=\"0\"/>\r\n   <stop stop-color=\"#fff\" stop-opacity=\".49401\" offset=\"1\"/>\r\n
+    \ </linearGradient>\r\n </defs>\r\n <metadata>\r\n  <rdf:RDF>\r\n   <cc:Work rdf:about=\"\">\r\n
+    \   <dc:format>image/svg+xml</dc:format>\r\n    <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\r\n
+    \   <dc:title/>\r\n   </cc:Work>\r\n  </rdf:RDF>\r\n </metadata>\r\n <g>\r\n  <g>\r\n
+    \  <path d=\"m350.93 104.08c-8.1323 0-14.799 6.6665-14.799 14.799v130c0 8.1323
+    6.6665 14.799 14.799 14.799h180c8.1323 0 14.799-6.6665 14.799-14.799v-130c0-8.1324-6.6665-14.799-14.799-14.799h-180z\"/>\r\n
+    \  <path d=\"m350.93 108.88h180c5.54 0 10 4.46 10 10v130c0 5.54-4.46 10-10 10h-180c-5.54
+    0-10-4.46-10-10v-130c0-5.54 4.46-10 10-10z\" fill=\"#0a0\"/>\r\n   <path d=\"m350.93
+    108.88h180c5.54 0 10 4.46 10 10v130c0 5.54-4.46 10-10 10h-180c-5.54 0-10-4.46-10-10v-130c0-5.54
+    4.46-10 10-10z\" fill=\"url(#linearGradient4285)\"/>\r\n   <path d=\"m353.5 114.59h174.86c5.3817
+    0 9.7143 3.8876 9.7143 8.7167v113.32c0 4.829-4.3326 8.7167-9.7143 8.7167h-174.86c-5.3817
+    0-9.7143-3.8876-9.7143-8.7167v-113.32c0-4.829 4.3326-8.7167 9.7143-8.7167z\" fill=\"#00d400\"/>\r\n
+    \  <path d=\"m362.85 118.17h156.15c4.8058 0 8.6748 3.3057 8.6748 7.4119v96.355c0
+    4.1062-3.869 7.4119-8.6748 7.4119h-156.15c-4.8058 0-8.6748-3.3057-8.6748-7.4119v-96.355c0-4.1062
+    3.869-7.4119 8.6748-7.4119z\" fill=\"#0f0\"/>\r\n   <path d=\"m363.08 118.17h155.69c4.7918
+    0 8.6495 1.6778 8.6495 3.7619v48.905c0 2.0841-3.8577 3.7619-8.6495 3.7619h-155.69c-4.7918
+    0-8.6495-1.6778-8.6495-3.7619v-48.905c0-2.0841 3.8577-3.7619 8.6495-3.7619z\"
+    fill=\"#b3ff80\"/>\r\n  </g>\r\n  <path d=\"m512.13 119.05a11.6 10.051 55.308
+    0 0 3.2695 11.465 11.6 10.051 55.308 0 0 11.143 3.4062v-11.109c0-2.0841-4.039-3.7617-9.0547-3.7617h-5.3574z\"
+    fill-opacity=\".56587\" fill=\"#fff\"/>\r\n </g>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 

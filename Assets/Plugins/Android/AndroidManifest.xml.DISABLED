@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" 
+	xmlns:tools="http://schemas.android.com/tools"
+    package="com.softcen.airfield.tycoon.clicker" 
+    android:installLocation="preferExternal" 
+    android:theme="@android:style/Theme.NoTitleBar" android:versionCode="1" android:versionName="1.0">
+  <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" android:anyDensity="true" />
+	<application android:icon="@drawable/app_icon" android:label="@string/app_name" android:debuggable="false" android:hardwareAccelerated="true">
+
+		<activity android:name="com.unity3d.player.UnityPlayerActivity" android:label="@string/app_name" android:screenOrientation="fullSensor" android:launchMode="singleTask" android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale">
+			<intent-filter>
+			<action android:name="android.intent.action.MAIN" />
+			<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+			<meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+			<meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true" />
+		</activity>	
+		<!-- Applovin -->
+		<activity android:name="com.applovin.adview.AppLovinInterstitialActivity" />
+		<activity android:name="com.applovin.adview.AppLovinConfirmationActivity" />
+        <activity
+            android:name="com.unity3d.player.VideoPlayer"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>		
+		<meta-data
+			android:name="applovin.sdk.key"
+			android:value="J17ysbIAbMhUp7nTKFsmh8a6Sbaeraw9c15TdNeDkKiXSU_okrXQz7XPk63ThziJ_pocAQrvmXQC0P-lFWADdh" />
+		<!-- Applovin End -->
+  </application>
+</manifest>

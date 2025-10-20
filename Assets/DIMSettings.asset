@@ -1,0 +1,297 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1528406803, guid: 10a92a1b0ec6975419ae089b43a7d9e3, type: 3}
+  m_Name: DIMSettings
+  m_EditorClassIdentifier: 
+  sourceIcon:
+    texture: {fileID: 2800000, guid: 1d8731c3a940e4740b03f791b74c14a9, type: 3}
+    usePSD: 0
+    psdLayerName: 
+    psdLayerId: -1
+    slicePSD: 0
+    psdSliceName: 
+    knownTextureWidth: 1024
+    knownTextureHeight: 1024
+    psdLayerMask: 0
+  backgroundTexture:
+    texture: {fileID: 0}
+    usePSD: 0
+    psdLayerName: 
+    psdLayerId: 0
+    slicePSD: 0
+    psdSliceName: 
+    knownTextureWidth: 0
+    knownTextureHeight: 0
+    psdLayerMask: 0
+  maskTexture:
+    texture: {fileID: 2800000, guid: d364eb9867978f14e8d5a3a5b6bd7797, type: 3}
+    usePSD: 0
+    psdLayerName: 
+    psdLayerId: -1
+    slicePSD: 0
+    psdSliceName: 
+    knownTextureWidth: 1024
+    knownTextureHeight: 1024
+    psdLayerMask: 0
+  splashTexture:
+    texture: {fileID: 2800000, guid: a364b00590250bf448afb2e498209e81, type: 3}
+    usePSD: 0
+    psdLayerName: 
+    psdLayerId: -1
+    slicePSD: 0
+    psdSliceName: 
+    knownTextureWidth: 2048
+    knownTextureHeight: 2048
+    psdLayerMask: 0
+  platformSettings:
+  - buildTargetGroup: Standalone
+    useBackground: 0
+    useMask: 1
+    generateIcon: 1
+    generatedEntries:
+    - id: 
+      texture: {fileID: 2800000, guid: c53f7b9af6819564c9606e938252c80b, type: 3}
+      width: 1024
+      height: 1024
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: ab105f1aae290f849a9087ea8eafe1ec, type: 3}
+      width: 512
+      height: 512
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 6c8d45010eab39240a98163dd8335c59, type: 3}
+      width: 256
+      height: 256
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: d2f97a5705088d740b279ff2608d5eff, type: 3}
+      width: 128
+      height: 128
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: ff467162f3ace8942970794533a676b4, type: 3}
+      width: 48
+      height: 48
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 99094c0074e8a0040b00df2023f3e6e8, type: 3}
+      width: 32
+      height: 32
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: f34ed320959487f45a3771d363d043ba, type: 3}
+      width: 16
+      height: 16
+      overrideId: 
+      customName: 
+    generatedSplashes: []
+    textureOverrides: []
+    customSettings: []
+    generateSplash: 0
+    forceEmptySplash: 0
+  - buildTargetGroup: iPhone
+    useBackground: 0
+    useMask: 0
+    generateIcon: 1
+    generatedEntries:
+    - id: 
+      texture: {fileID: 2800000, guid: a7e3a4664c3c3394da45086cda6b5103, type: 3}
+      width: 180
+      height: 180
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 460f3d010be563742b476ffd8cd30647, type: 3}
+      width: 167
+      height: 167
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 658bc3b49ab4c4c408ff731cd8c6273e, type: 3}
+      width: 152
+      height: 152
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: f3f272cd0b830e545aa28c1d9a839f66, type: 3}
+      width: 144
+      height: 144
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 8941e2678e959b8459874aecca6ac19c, type: 3}
+      width: 120
+      height: 120
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: b0574874a219fef44a16e6487a8e0ff4, type: 3}
+      width: 114
+      height: 114
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 81d843249279cad47baa8ff3ee995610, type: 3}
+      width: 76
+      height: 76
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: cca177ca23221b949b9cd4f500fedc34, type: 3}
+      width: 72
+      height: 72
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: f95c4ac813395e54cbb131f9de2ae9b1, type: 3}
+      width: 57
+      height: 57
+      overrideId: 
+      customName: 
+    - id: iOSAppStoreIcon
+      texture: {fileID: 2800000, guid: 170fdfb9313075743a09b47e7e172294, type: 3}
+      width: 512
+      height: 512
+      overrideId: 
+      customName: iOS_AppStore_Icon
+    generatedSplashes:
+    - id: 
+      texture: {fileID: 2800000, guid: 19c645bb015e4f54d9a9aa1756aa012f, type: 3}
+      width: 640
+      height: 960
+      isPortrait: 1
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 95af711714a6f98418615cb97a691976, type: 3}
+      width: 640
+      height: 1136
+      isPortrait: 1
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 3601719944b5792449ba6829063058c6, type: 3}
+      width: 750
+      height: 1334
+      isPortrait: 1
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 934381bbe1bca934388f1d188efc2c30, type: 3}
+      width: 1242
+      height: 2208
+      isPortrait: 1
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 90bad25c3c420314bae5233e149319b2, type: 3}
+      width: 2208
+      height: 1242
+      isPortrait: 0
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 8b339b90057fbe1428c901990cf9c971, type: 3}
+      width: 768
+      height: 1024
+      isPortrait: 1
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 46362acdac739a14a9e826b728cf9435, type: 3}
+      width: 1024
+      height: 768
+      isPortrait: 0
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 0c178278cb945e4418ff44fe89698598, type: 3}
+      width: 1536
+      height: 2048
+      isPortrait: 1
+      forceOrientation: 0
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 1a6fa626708c34b489d98e513f411628, type: 3}
+      width: 2048
+      height: 1536
+      isPortrait: 0
+      forceOrientation: 0
+      customName: 
+    textureOverrides: []
+    customSettings: []
+    generateSplash: 1
+    forceEmptySplash: 0
+  - buildTargetGroup: Android
+    useBackground: 0
+    useMask: 1
+    generateIcon: 1
+    generatedEntries:
+    - id: 
+      texture: {fileID: 2800000, guid: 0831bd231158fdf4e97805796673b350, type: 3}
+      width: 192
+      height: 192
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: d23a714b99a13694fae58a7608c978d5, type: 3}
+      width: 144
+      height: 144
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 75683d23ce6bd3c4ca4b992fc77c4db1, type: 3}
+      width: 96
+      height: 96
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: e0d2205c3fb2da94eabe8a74a356017f, type: 3}
+      width: 72
+      height: 72
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 7c7c8218fbc093446ba7f336e9123171, type: 3}
+      width: 48
+      height: 48
+      overrideId: 
+      customName: 
+    - id: 
+      texture: {fileID: 2800000, guid: 66cdce3f344e702489a9724763107af5, type: 3}
+      width: 36
+      height: 36
+      overrideId: 
+      customName: 
+    - id: androidAmazon114
+      texture: {fileID: 2800000, guid: 875acd255f37d9549b7c58ec53aead64, type: 3}
+      width: 114
+      height: 114
+      overrideId: 
+      customName: Android_AmazonAppstore
+    generatedSplashes: []
+    textureOverrides: []
+    customSettings: []
+    generateSplash: 0
+    forceEmptySplash: 0
+  newFileSavingPolicy: 2
+  lastIconPath: Assets/Softcen/Graphics/Icon
+  autoGenerate: 0
+  filterType: 0
+  splashType: 0

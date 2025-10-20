@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 36e853e9782b8b6429588f4ca5a383f7
+timeCreated: 1452890730
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\r\n<!--
+    Created with Inkscape (http://www.inkscape.org/) -->\r\n<svg xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"
+    xmlns=\"http://www.w3.org/2000/svg\" height=\"297mm\" width=\"210mm\" version=\"1.1\"
+    xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    viewBox=\"0 0 744.09448819 1052.3622047\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\r\n
+    <defs>\r\n  <linearGradient id=\"linearGradient5372\" y2=\"769.46\" gradientUnits=\"userSpaceOnUse\"
+    x2=\"343.73\" y1=\"130.89\" x1=\"343.73\">\r\n   <stop stop-color=\"#c5d0da\"
+    offset=\"0\"/>\r\n   <stop stop-color=\"#63718c\" offset=\"1\"/>\r\n  </linearGradient>\r\n
+    </defs>\r\n <metadata>\r\n  <rdf:RDF>\r\n   <cc:Work rdf:about=\"\">\r\n    <dc:format>image/svg+xml</dc:format>\r\n
+    \   <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\r\n    <dc:title/>\r\n
+    \  </cc:Work>\r\n  </rdf:RDF>\r\n </metadata>\r\n <g>\r\n  <rect rx=\"28\" ry=\"28\"
+    height=\"649.52\" width=\"343.02\" y=\"128.02\" x=\"169.13\"/>\r\n  <rect rx=\"27.155\"
+    ry=\"27.51\" height=\"638.16\" width=\"332.67\" y=\"131.81\" x=\"173.92\" fill=\"url(#linearGradient5372)\"/>\r\n
+    \ <rect rx=\"27.155\" ry=\"26.602\" height=\"617.08\" width=\"332.67\" y=\"138.24\"
+    x=\"173.92\" fill=\"#8da5cc\"/>\r\n  <rect rx=\"24.619\" ry=\"25.293\" height=\"586.73\"
+    width=\"301.6\" y=\"154.67\" x=\"189.64\" fill=\"#a4b9d7\"/>\r\n </g>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 

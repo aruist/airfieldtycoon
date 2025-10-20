@@ -1,0 +1,47 @@
+Voxel busters
+
+IOS Store id: 1117759071
+Android Store id: com.softcen.airfield.tycoon.clicker
+Game services
+	Leaderboard 1
+	Global id: LeaderboardScores
+	Platform ids: 3
+		Android: CgkI-6iB1dkDEAIQA
+		IOS: com.softcen.airfield.tycoon.clicker.lb.top.scores
+		EDITOR: lb.top.scores
+		
+	Achievements: 7
+		Buy Helicopter
+			IOS: ach.buy.helicopter
+			Android: CgkI-6iB1dkDEAIQAg
+			EDITOR: ach.buyhelicopter
+			Number of steps: 1
+		Buy Private Jet
+			ach.buy.private.jet
+			CgkI-6iB1dkDEAIQAw
+			ach.buyprivatejet
+		Buy Fighter Z-3
+			com.softcen.airfield.tycoon.clicker.ach.buy.fighter.z3
+			CgkI-6iB1dkDEAIQBA
+			ach.buyfighterz3
+		Hire Air Hostess Ulla
+			com.softcen.airfield.tycoon.clicker.ach.hire.ulla
+			CgkI-6iB1dkDEAIQBQ
+			ach.hire.ulla
+		Hire Air Hostess Mary
+			com.softcen.airfield.tycoon.clicker.ach.hire.mary
+			CgkI-6iB1dkDEAIQBg
+			ach.hire.mary
+		Make full prestige
+			com.softcen.airfield.tycoon.clicker.ach.full.prestige
+			CgkI-6iB1dkDEAIQBw
+			ach.full.prestige
+		Build Three Towers
+			com.softcen.airfield.tycoon.clicker.ach.three.towers
+			CgkI-6iB1dkDEAIQCA
+			ach.three.towers
+			
+		Android play services: 127148250235
+		
+		
+	

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<FPSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <refsFinderSettings>
+    <lookIn>
+      <lookInScenes>true</lookInScenes>
+      <sceneRange>CurrentScene</sceneRange>
+      <lookInPrefabs>false</lookInPrefabs>
+      <lookInMaterials>false</lookInMaterials>
+      <folderPaths />
+      <enableLookInMaterials>true</enableLookInMaterials>
+    </lookIn>
+    <targetType>Object</targetType>
+    <valueType>Integer</valueType>
+    <intValue>0</intValue>
+    <longValue>0</longValue>
+    <floatValue>0</floatValue>
+    <doubleValue>0</doubleValue>
+    <decimalTolerance>0.001</decimalTolerance>
+    <strValue />
+    <enumValue />
+    <isValueIgnoreCase>true</isValueIgnoreCase>
+  </refsFinderSettings>
+  <missingsFinderSettings>
+    <lookIn>
+      <lookInScenes>true</lookInScenes>
+      <sceneRange>CurrentScene</sceneRange>
+      <lookInPrefabs>false</lookInPrefabs>
+      <lookInMaterials>false</lookInMaterials>
+      <folderPaths />
+      <enableLookInMaterials>false</enableLookInMaterials>
+    </lookIn>
+    <checkMissingGroupToggle>true</checkMissingGroupToggle>
+    <checkMissingGroupFoldout>true</checkMissingGroupFoldout>
+    <opMissingComponent>true</opMissingComponent>
+    <opMissingReference>true</opMissingReference>
+    <checkNullGroupToggle>true</checkNullGroupToggle>
+    <checkNullGroupFoldout>true</checkNullGroupFoldout>
+    <opAnimationWithEmptyClip>true</opAnimationWithEmptyClip>
+    <opAudioSourceWithEmptyAudioClip>true</opAudioSourceWithEmptyAudioClip>
+    <opRendererWithEmptyMaterial>true</opRendererWithEmptyMaterial>
+    <opSpriteRendererWithEmptySprite>true</opSpriteRendererWithEmptySprite>
+    <opMeshFilterWithEmptyMesh>true</opMeshFilterWithEmptyMesh>
+    <opMeshColliderWithEmptyMesh>true</opMeshColliderWithEmptyMesh>
+    <opTerrainColliderWitheEmptyTerrainData>true</opTerrainColliderWitheEmptyTerrainData>
+    <opArrayWithEmptyItem>true</opArrayWithEmptyItem>
+  </missingsFinderSettings>
+  <promptWhileShowResultInHierarchy>true</promptWhileShowResultInHierarchy>
+</FPSettings>

@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Build dirs
+/build
+/Builds
+/Build
+.DS_Store
+/captures
+/screenshots
+SerializedBuildInfo
+*.slnx
+Analyses.txt
